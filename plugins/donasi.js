@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Telkomsel: 0813-5730-2007
-│ • Gopay: 0813-5730-2007
-│ • Smartfren: 0882-3543-5804
+│ • Telkomsel: 0813-3195-4019
+│ • Gopay: 0857-0461-7188
+│ • Saweria: https://saweria.co/fian014
 ╰────
 ╭─「 Ingin Donasi? 」
-│> Chat: Wa.me/6281357302007
+│> Chat: Wa.me/6285704617188
 ╰────
 
 ╭─「 Ini #caranya 」
@@ -13,7 +13,7 @@ let handler = async m => m.reply(`
 │1.) Beli ke pulsa/ konter terdekat semisal Indomaret
 │2.) Bilang ke konter terdekat..
 │"Beli pulsa telkomsel"
-│3.)Dan terus masukkan nomor kami 081357302007
+│3.)Dan terus masukkan nomor kami 081331954019
 │4.) Jika sudah kirim bukti ... Terimakasih
 │*Kalau tidak juga gak papa* 👍
 ╰────
